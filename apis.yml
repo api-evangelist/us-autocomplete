@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
 common:
+  - type: DomainSecurity
+    url: security/us-autocomplete-domain-security.yml
   - type: Website
     url: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.smarty.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

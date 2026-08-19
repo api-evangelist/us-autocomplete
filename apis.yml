@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/us-autocom
 name: US Autocomplete
 description: "Enter address data quickly with real-time address suggestions"
 url: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis

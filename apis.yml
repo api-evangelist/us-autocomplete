@@ -39,7 +39,6 @@ apis:
   - name: US Autocomplete
     description: "Enter address data quickly with real-time address suggestions"
     humanURL: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
-    baseURL: https://www.smarty.com/docs/cloud/us-autocomplete-pro-api
     tags:
       - Data Validation
     properties:
